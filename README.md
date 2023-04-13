@@ -6,5 +6,5 @@ Unix, GNU/Linux, servers and networking, homelabbing, selfhosting, containers, v
 #### Programming:
 Python, Bash, AutoHotKey, JS
 
-#### Making pretty words:
+#### Making pretty pages:
 HTML/CSS, Markdown, LaTeX
