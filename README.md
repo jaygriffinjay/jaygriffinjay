@@ -1,7 +1,7 @@
 ### Things I think about a lot:
 
 #### Infra:
-Unix, GNU/Linux, servers and networking, homelabbing, selfhosting, containers, virtualization, container and VM orchestration and automation
+Unix, GNU/Linux, servers and networking, homelabbing, selfhosting, containers, virtualization
 
 #### Programming:
 Python, Bash, AutoHotKey, JS
