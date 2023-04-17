@@ -1,7 +1,7 @@
 ### Things I think about a lot:
 
 #### Infra:
-*nix, servers and networking, homelabbing, selfhosting, containers, virtualization
+*nix, servers, networking, homelabbing, selfhosting, containers, virtualization
 
 #### Programming:
 Python, Bash, AutoHotKey, JS
