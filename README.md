@@ -3,5 +3,5 @@
 #### Computer Infrastructure:
 *nix, homelabbing, networking, containers, virtualization, automation
 
-#### Development with:
+#### Making software:
 Python, Bash, AutoHotKey, HTML/CSS/JS
