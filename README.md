@@ -1,10 +1,7 @@
 ### Things I think about a lot:
 
 #### Infra:
-*nix, servers, networking, homelabbing, selfhosting, containers, virtualization
+*nix, serving, networking, homelabbing, selfhosting, containers, virtualization
 
-#### Programming:
-Python, Bash, AutoHotKey, JS
-
-#### Making pretty pages:
-HTML/CSS, Markdown, LaTeX
+#### Languages:
+Python, Bash, AutoHotKey, Ansible, HTML/CSS/JS, Markdown, LaTeX
