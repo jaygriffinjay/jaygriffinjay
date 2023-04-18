@@ -1,6 +1,6 @@
 ### Things I think about a lot:
 
-#### Infra:
+#### Computer Infrastructure:
 *nix, homelabbing, networking, containers, virtualization, automation
 
 #### Languages:
