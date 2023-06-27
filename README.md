@@ -4,4 +4,4 @@
 *nix, homelabbing, networking, hardware, containers, virtualization, automation
 
 #### Making software with these:
-Python, Bash, AutoHotKey, HTML/CSS/JS
+Python, Bash, AutoHotkey, HTML/CSS/JS
