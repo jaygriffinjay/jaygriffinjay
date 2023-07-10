@@ -12,7 +12,7 @@ Python, Bash, AutoHotkey, HTML/CSS/JS
 <table border="0" cellPadding="0"  class="center">
   <tbody>
     <tr>
-      <td> ![image](https://github.com/jaygriffinjay/jaygriffinjay/assets/109874753/06f9d2b8-962b-46bd-9dd5-d2c8bdc4f9b3)</td>
+      <td> ![image](https://github.com/jaygriffinjay/jaygriffinjay/assets/109874753/06f9d2b8-962b-46bd-9dd5-d2c8bdc4f9b3) </td>
       <td>cell</td>
       <td>cell</td>
       <td>cell</td>
