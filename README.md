@@ -15,6 +15,3 @@ Python, Bash, AutoHotkey, HTML/CSS/JS
 
          
             <mark>hmm:</mark>
-            It is a
-            <mark>computer science</mark>
-            does this work
