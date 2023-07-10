@@ -1,5 +1,3 @@
-<center> 
-  
 ### Things I think about a lot:
 
 #### Computer Infrastructure:
@@ -7,7 +5,4 @@
 
 #### Programming with these:
 Python, Bash, AutoHotkey, HTML/CSS/JS
-
-</center>
-
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaygriffinjay&layout=compact)
