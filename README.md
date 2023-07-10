@@ -12,7 +12,7 @@ Python, Bash, AutoHotkey, HTML/CSS/JS
 <table border="0" cellPadding="0"  class="center">
   <tbody>
     <tr>
-      <td>cell</td>
+      <td></td>
       <td>cell</td>
       <td>cell</td>
       <td>cell</td>
@@ -93,4 +93,3 @@ Python, Bash, AutoHotkey, HTML/CSS/JS
     </tr>
   </tbody>
 </table>
-<h1>Chess Board</h1>
