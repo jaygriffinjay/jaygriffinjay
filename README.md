@@ -12,7 +12,7 @@ Python, Bash, AutoHotkey, HTML/CSS/JS
 <table border="0" cellPadding="0"  class="center">
   <tbody>
     <tr>
-      <td></td>
+      <td>ch♟️</td>
       <td>cell</td>
       <td>cell</td>
       <td>cell</td>
