@@ -13,11 +13,8 @@ Python, Bash, AutoHotkey, HTML/CSS/JS
 <tr> <td>Column 1</td>
 <td>Column 2</td> </tr> </table>-->
 
-</mark></h2>
          
-        <p>
             <mark>hmm:</mark>
             It is a
             <mark>computer science</mark>
             does this work
-        </p>
