@@ -94,3 +94,4 @@ Python, Bash, AutoHotkey, HTML/CSS/JS
   </tbody>
 </table>
 <button type="button">Click Me!</button>
+![image](https://github.com/jaygriffinjay/jaygriffinjay/assets/109874753/85faa62c-bd26-442f-9c09-ce2f70df5deb)
