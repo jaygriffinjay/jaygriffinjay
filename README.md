@@ -93,3 +93,4 @@ Python, Bash, AutoHotkey, HTML/CSS/JS
     </tr>
   </tbody>
 </table>
+<button type="button">Click Me!</button>
