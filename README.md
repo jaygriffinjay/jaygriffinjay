@@ -12,7 +12,3 @@ Python, Bash, AutoHotkey, HTML/CSS/JS
 </a>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaygriffinjay&layout=compact)
-
-<a href="https://github.com/jaygriffinjay/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jaygriffinjay" />
-</a>
