@@ -6,5 +6,5 @@
 #### Programming with these:
 Python, Bash, AutoHotkey, HTML/CSS/JS
 
-!(https://github-readme-stats.vercel.app/api?username=jaygriffinjay&show_icons=true&hide=stars,prs,issues,contribs&theme=synthwave&rank_icon=percentile)
+![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaygriffinjay&show_icons=true&hide=stars,prs,issues,contribs&theme=synthwave&rank_icon=percentile)
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaygriffinjay&layout=compact)
