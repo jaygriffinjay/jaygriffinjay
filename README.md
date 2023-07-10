@@ -14,7 +14,7 @@ Python, Bash, AutoHotkey, HTML/CSS/JS
 <td>Column 2</td> </tr> </table>-->
 
 <form action="mailto:you@yourdomain.com ">
-  Name: <input name="Name" value="" size="80"><br>
-  Email: <input name="Email" value="" size="80"><br>
+  Name: <input name="Name" value="" size="800"><br>
+  Email: <input name="Email" value="" size="800"><br>
   <br><center><input type="submit"></center>
 </form>
