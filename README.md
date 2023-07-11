@@ -7,3 +7,5 @@
 Python, Bash, AutoHotkey, HTML/CSS/JS
 
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaygriffinjay&layout=compact)
+
+<map>https://upload.wikimedia.org/wikipedia/commons/f/f1/2ChocolateChipCookies.jpg</map>
