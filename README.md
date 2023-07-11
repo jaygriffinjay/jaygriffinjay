@@ -8,7 +8,7 @@ Python, Bash, AutoHotkey, HTML/CSS/JS
 
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaygriffinjay&layout=compact)
 
-<img src="2ChocolateChipCookies.jpg" alt="Cookies" usemap="#cookie" width="400" height="400">
+<img src="[2ChocolateChipCookies.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f1/2ChocolateChipCookies.jpg)" alt="Cookies" usemap="#cookie" width="400" height="400">
 <map name="cookie">
   <area shape="rect" coords="34,44,270,350" alt="Computer" href="computer.htm">
   <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">
