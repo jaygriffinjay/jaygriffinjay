@@ -1,4 +1,4 @@
-### Things I think about a lot:
+### I am interested in:
 
 #### Computer Infrastructure:
 *nix, homelabbing, networking, hardware, containers, virtualization, automation
