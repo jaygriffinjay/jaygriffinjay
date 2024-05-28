@@ -1,7 +1,7 @@
 ### I am interested in:
 
 #### Computer Infrastructure:
-*nix, homelabbing, networking, hardware, containers, virtualization, automation
+Linux, homelabbing, networking, hardware, containers, virtualization, automation
 
 #### Programming with these:
 Python, Bash, AutoHotkey, HTML/CSS/JS
