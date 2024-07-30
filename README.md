@@ -1,7 +1,7 @@
 ### I am interested in:
 
 #### Computer Infrastructure:
-Linux, homelabbing, networking, hardware, containers, virtualization, automation
+Linux, homelabbing, networking, hardware, containers, virtualization, automation, hosting, selfhosting
 
 #### Programming with these:
 
