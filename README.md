@@ -5,6 +5,6 @@ Linux, homelabbing, selfhosting, hosting, networking, hardware, containers, virt
 
 #### Programming with these:
 
-Python, JavaScript, Bash/Zsh, AutoHotkey, HTML, CSS, GDScript
+Python, JavaScript, Bash/Zsh, HTML, CSS
 
 ![top langs](https://github-readme-stats-jay-griffins-projects.vercel.app/api/top-langs/?username=jaygriffinjay&layout=compact)
