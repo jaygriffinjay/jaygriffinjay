@@ -1,10 +1,10 @@
 ### I am interested in:
 
 #### Computer Infrastructure:
-Linux, homelabbing, selfhosting, hosting, networking, hardware, containers, virtualization, automation
+Linux, homelab, hosting, networking, hardware, containers, virtualization, automation
 
 #### Programming with these:
 
-Python, JavaScript, Bash/Zsh, HTML, CSS
+Python, JavaScript, Bash, HTML, CSS
 
 ![top langs](https://github-readme-stats-jay-griffins-projects.vercel.app/api/top-langs/?username=jaygriffinjay&layout=compact)
