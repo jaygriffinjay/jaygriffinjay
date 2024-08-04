@@ -4,7 +4,7 @@
 Python, JavaScript, Bash, HTML, CSS
 
 #### Computer Infrastructure:
-Linux, homelab, hosting, networking, hardware, containers, virtualization, automation
+Linux, homelab, hosting, networking, hardware, virtualization, containers & container orchestration, automation
 
 #### Accounting
 Tax Accounting, Bookkeeping, Excel, PowerQuery
