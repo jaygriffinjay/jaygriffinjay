@@ -7,6 +7,6 @@ Python, JavaScript, Bash, HTML, CSS
 Linux, homelab, hosting, networking, hardware, containers, virtualization, automation
 
 #### Accounting
-Tax Accounting, Bookkeeping, Personal Financial Planning & Analysis, Excel, PowerQuery
+Tax Accounting, Bookkeeping, Excel, PowerQuery
 
 ![top langs](https://github-readme-stats-jay-griffins-projects.vercel.app/api/top-langs/?username=jaygriffinjay&layout=compact)
