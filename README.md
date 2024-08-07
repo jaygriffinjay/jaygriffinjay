@@ -1,6 +1,6 @@
 ### I am an accountant & programmer interested in
 
-#### Full-Stack Web Development and Programming with these:
+#### Full-Stack Web Development with these:
 Python, JavaScript, Bash, HTML, CSS
 
 #### Web and Computer Infrastructure:
