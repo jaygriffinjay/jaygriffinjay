@@ -3,7 +3,7 @@
 #### Full-Stack Web Development and Programming with these:
 Python, JavaScript, Bash, HTML, CSS
 
-#### Computer Infrastructure:
+#### Web and Computer Infrastructure:
 Linux, homelab, hosting, networking, hardware, virtualization, containers, automation
 
 #### Accounting
