@@ -1,8 +1,6 @@
-### I am interested in:
+### I am interested in
 
-#### Full-stack web development
-
-#### Programming with these:
+#### Full-Stack Web Development and Programming with these:
 Python, JavaScript, Bash, HTML, CSS
 
 #### Computer Infrastructure:
