@@ -1,4 +1,4 @@
-### I am an accountant & programmer interested in
+### I am an accountant & programmer interested in ↴
 
 #### Full-Stack Web Development with these:
 Python, JavaScript, Bash, HTML, CSS
