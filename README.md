@@ -3,6 +3,8 @@
 #### Full-Stack Web Development with these:
 Python, JavaScript, Bash, HTML, CSS
 
+Next.js, React, Tailwind CSS, DaisyUI
+
 #### Computer Infrastructure:
 Linux, homelab, hosting, networking, hardware, virtualization, containers, automation
 
