@@ -1,6 +1,6 @@
 ### I am an accountant & programmer interested in:
 
-#### Full-Stack Web Development with these:
+#### Full-Stack Web Development using:
 Python, JavaScript, Bash, HTML, CSS
 
 Next.js, React, Tailwind CSS, DaisyUI
