@@ -10,5 +10,3 @@ Linux, homelab, hosting, networking, hardware, virtualization, containers, autom
 
 #### Accounting:
 Tax Accounting, Bookkeeping, Excel, PowerQuery
-
-![top langs](https://github-readme-stats-jay-griffins-projects.vercel.app/api/top-langs/?username=jaygriffinjay&layout=compact)
