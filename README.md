@@ -10,8 +10,8 @@ React, styled-components, Node, Vite, Cursor.ai
 #### Some prior tools I have used:
 Flask, Django, Hugo, Jekyll, Wordpress, Tailwind, Next.js, DaisyUI
 
-#### Computer Infrastructure:
+#### Computer Infrastructure interests:
 Linux, homelab, hosting, networking, hardware, virtualization, containers, automation
 
-#### Accounting:
+#### Accounting interests:
 Tax Accounting, Bookkeeping, Excel, PowerQuery
