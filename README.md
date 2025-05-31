@@ -1,11 +1,11 @@
-### I am an accountant & programmer interested in:
+### I am an accountant & software developer interested in:
 
 #### Full-Stack Development using:
 Languages:
-JavaScript, Python, Shell, HTML, CSS
+TypeScript, Python, Shell, HTML, CSS
 
 Tools:
-React, styled-components, Node, Vite, Cursor.ai
+React, css-in-js, Node, Vite, Cursor.ai, Chakra UI
 
 #### Some prior tools I have used:
 Flask, Django, Hugo, Jekyll, Wordpress, Tailwind, Next.js, DaisyUI
