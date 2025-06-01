@@ -5,7 +5,7 @@ Languages:
 TypeScript, Python, Shell, HTML, CSS
 
 Tools:
-React, css-in-js, Node, Vite, Cursor.ai, Chakra UI
+React, css-in-js, Node, Vite, Cursor.ai
 
 #### Some prior tools I have used:
 Flask, Django, Hugo, Jekyll, Wordpress, Tailwind, Next.js, DaisyUI
