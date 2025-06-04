@@ -1,4 +1,4 @@
-### I am an accountant & software developer interested in:
+### I am a software developer and accountant interested in:
 
 #### Full-Stack Development using:
 Languages:
