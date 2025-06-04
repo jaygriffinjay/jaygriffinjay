@@ -2,7 +2,7 @@
 
 #### Full-Stack Development using:
 Languages:
-TypeScript, Python, Shell, HTML, CSS
+JavaScript, TypeScript, Python, Shell, HTML, CSS
 
 Tools:
 React, css-in-js, Node, Vite, Cursor.ai
