@@ -7,7 +7,7 @@ JavaScript, TypeScript, Python, Shell, HTML, CSS
 Tools:
 React, css-in-js, Node, Vite, Cursor.ai
 
-Prior Tools used:
+Previous Tools:
 Flask, Django, Hugo, Jekyll, Wordpress, Tailwind, Next.js, DaisyUI
 
 #### Computer Infrastructure interests:
