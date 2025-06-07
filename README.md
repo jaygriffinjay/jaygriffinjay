@@ -4,7 +4,7 @@
 Languages:
 JavaScript, TypeScript, Python, Shell, HTML, CSS
 
-Tools:
+Current Tools:
 React, css-in-js, Node, Vite, Cursor.ai
 
 Previous Tools:
