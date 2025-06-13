@@ -11,7 +11,7 @@ Previous Tools:
 Flask, Django, Hugo, Jekyll, Wordpress, Tailwind, Next.js, DaisyUI
 
 #### Computer Infrastructure interests:
-Linux, homelab, hosting, networking, hardware, virtualization, containers, automation
+Linux, homelab, hosting, networking, hardware, virtualization, containers, container orchestration, automation
 
 #### Accounting interests:
 Tax Accounting, Bookkeeping, Excel, PowerQuery
