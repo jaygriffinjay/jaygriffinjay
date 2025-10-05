@@ -7,11 +7,5 @@
     stroke="#D32F2F" 
     stroke-width="3"
   >
-    <animate 
-      attributeName="r" 
-      values="50; 55; 50" 
-      dur="3s" 
-      repeatCount="indefinite" 
-    />
   </circle>
 </svg>
