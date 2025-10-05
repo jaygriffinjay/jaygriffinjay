@@ -1,4 +1,4 @@
 ## Testing Continuous SVG Animation
 
-![Animated Test SVG](https://raw.githubusercontent.com/jaygriffinjay/jaygriffinjay/refs/heads/main/test-animation.svg?t=1728151050)
-<img src="https://raw.githubusercontent.com/jaygriffinjay/jaygriffinjay/refs/heads/main/test-animation.svg?t=1728151050" alt="Animated Test SVG" width="200" height="200"/>
+### CSS Animation Test
+<img src="https://raw.githubusercontent.com/jaygriffinjay/jaygriffinjay/refs/heads/main/test_animation_css.svg?t=1728153595" alt="Pulsing CSS Circle" width="200" height="200"/>
