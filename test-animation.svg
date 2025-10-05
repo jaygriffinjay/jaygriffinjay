@@ -3,7 +3,7 @@
     /* 1. Define the continuous movement (Keyframes) */
     @keyframes pulse-scale {
       0% { transform: scale(1); }
-      50% { transform: scale(1.05); } /* Grows 5% larger */
+      50% { transform: scale(1.50); } /* Grows 50% larger */
       100% { transform: scale(1); }
     }
     
