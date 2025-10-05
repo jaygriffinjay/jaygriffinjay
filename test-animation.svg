@@ -1,5 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
-
+  <style>
+    /* 1. Define the continuous movement (Keyframes) */
+    @keyframes pulse-scale {
+      0% { transform: scale(1); }
+      50% { transform: scale(1.05); } /* Grows 5% larger */
+      100% { transform: scale(1); }
+    }
+    
+    /* 2. Apply the animation to the circle element */
+    #pulsing-circle {
+      /* Apply the animation name, duration (3 seconds), and infinite loop */
+      animation: pulse-scale 3s infinite alternate; 
+      transform-origin: center; /* Ensures it scales from the center */
+    }
+  </style>
 
   <circle 
     id="pulsing-circle" 
