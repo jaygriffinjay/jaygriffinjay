@@ -1,3 +1,3 @@
 ## Testing Continuous SVG Animation
 
-<img src="test_animation.svg" alt="Pulsing Test Circle">
+![Animated Test SVG](https://raw.githubusercontent.com/jaygriffinjay/jaygriffinjay/refs/heads/main/test-animation.svg?t=1728151050)
