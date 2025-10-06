@@ -1,0 +1,75 @@
+# Development Log
+
+## Project Genesis
+**Goal:** Create a visually arresting GitHub profile banner 
+
+---
+
+## October 6, 2025
+
+### Initial SVG Exploration
+- Started with basic SVG triangle generation
+- Created `triangle-fill.svg` with equilateral triangle tessellation
+  - 232+ triangles filling a 400x400 square
+  - Side length: 40px, height: ~34.64px
+  - Alternating coral (#FF6B6B) and turquoise (#4ECDC4) colors
+  - White stroke borders (0.5px)
+
+### Animation Experiments
+- Added SVG `<animate>` elements to create pulsing stroke-width effect
+- Built `add_animation.js` (Node.js) - initial script to inject animation tags into polygon elements
+  - Pattern matching for self-closing polygon tags
+  - Replaced with opening tags + `<animate>` elements + closing tags
+- Created `update_animation.js` (Node.js) - improved version that can:
+  - Update existing animations (not just add new ones)
+  - Configure animation parameters: values, duration
+  - Handle both self-closing and already-animated polygons
+  
+**Animation Parameters Explored:**
+- `values="0.5;2;0.5"` → `values="0.5;6;0.5"` (more dramatic pulse)
+- `dur="2s"` → `dur="1s"` (faster animation)
+
+### Edge-Case Fixes
+- Discovered gaps on left edge of square
+- Manually added triangles extending to x=-20 on even rows (0, 2, 4, 6, 8, 10)
+- Fixed color alternation pattern for edge triangles
+
+### Project Evolution Decision
+- Decided to build a web UI for interactive SVG parameter control
+- Merged React template (`my-stack`) into repo
+  - React + Vite + Styled Components stack
+  - Resolved README.md merge conflict
+  - Template provides foundation for interactive controls
+
+### Tools Created (May Not Survive)
+- `add_animation.js` - first iteration, only works on fresh polygons
+- `update_animation.js` - successor, handles updates to existing animations
+- Both served as quick iteration tools before building proper UI
+
+### Next Steps
+- Install dependencies (`npm install`)
+- Build React component to render SVG
+- Create UI controls for:
+  - Fill colors
+  - Stroke color
+  - Stroke width (static + animated values)
+  - Animation duration
+  - Triangle size/count
+- Consider: single banner vs. generator tool for others?
+
+---
+
+## Notes & Learnings
+- SVG `<animate>` is powerful for simple animations without JavaScript
+- `repeatCount="indefinite"` creates continuous loops
+- Equilateral triangle tessellation requires careful math for seamless filling
+- Git remotes can be temporary - useful for one-time template merges
+- Scripts as throwaway tools vs. permanent infrastructure
+
+---
+
+## Questions to Explore
+- Should this be a personal banner or a tool for everyone?
+- How to balance visual impact with load time (232+ triangles)?
+- Can we add interactivity beyond animation (click, hover effects)?
+- Export options: SVG, PNG, animated GIF?
