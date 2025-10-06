@@ -22,3 +22,13 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Local documentation assets (screenshots, videos, recordings)
+# Keep these local for reference but don't commit to save repo size
+/docs/videos/
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.gif
+*.webm
