@@ -1,9 +1,12 @@
-import styled from 'styled-components'
+
+import SVGStyler from './svg-styler';
 
 function App() {
   return (
-      <h1>Hello World</h1>
-  )
+    <>
+      <SVGStyler />
+    </>
+  );
 }
 
-export default App
+export default App;
