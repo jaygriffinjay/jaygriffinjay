@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="./ellipse-globe copy.svg?v=1" alt="Ellipse Globe CSS Animation Test" width="100%" />
+	<img src="./ellipse-globe-copy.svg?v=1" alt="Ellipse Globe CSS Animation Test" width="100%" />
 </p>
 
 <p align="center">
