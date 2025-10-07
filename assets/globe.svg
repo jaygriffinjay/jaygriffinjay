@@ -21,8 +21,6 @@
       100% { opacity: 0; stroke: blue; }
     }
   </style>
-  <!-- Background -->
-  <rect x="0" y="0" width="1280" height="720" fill="#222" />
   <defs>
     <!-- Latitude ellipse symbol -->
     <symbol id="lat-ellipse" viewBox="0 0 1280 720">
