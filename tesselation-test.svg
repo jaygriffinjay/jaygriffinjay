@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
-<svg width="1624" height="1624" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1920" height="1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
 <defs>
 	<linearGradient id="jayGradient" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -36,22 +36,41 @@
 <use xlink:href="#quad" fill="#000000" transform="translate(356.7,-356.7)"></use>
 </g>
 </defs>
-<g transform="translate(98.6,98.6)">
-<use xlink:href="#cell"></use>
-<use xlink:href="#cell" transform="translate(713.4,0)"></use>
-<use xlink:href="#cell" transform="translate(0,713.4)"></use>
-<use xlink:href="#cell" transform="translate(713.4,713.4)"></use>
-<use xlink:href="#cell" transform="translate(-713.4,0)"></use>
-<use xlink:href="#cell" transform="translate(0,-713.4)"></use>
-<use xlink:href="#cell" transform="translate(713.4,-713.4)"></use>
-<use xlink:href="#cell" transform="translate(-713.4,713.4)"></use>
-<use xlink:href="#cell" transform="translate(1426.8,0)"></use>
-<use xlink:href="#cell" transform="translate(0,1426.8)"></use>
-<use xlink:href="#cell" transform="translate(713.4,1426.8)"></use>
-<use xlink:href="#cell" transform="translate(1426.8,713.4)"></use>
-<use xlink:href="#cell" transform="translate(1426.8,1426.8)"></use>
-<use xlink:href="#cell" transform="translate(1426.8,-713.4)"></use>
-<use xlink:href="#cell" transform="translate(-713.4,1426.8)"></use>
- </g>
+<g transform="scale(0.5)">
+	<g transform="translate(98.6,98.6)">
+	<use xlink:href="#cell" transform="translate(3566.0,0)"></use>
+	<use xlink:href="#cell" transform="translate(4279.4,0)"></use>
+	<use xlink:href="#cell" transform="translate(3566.0,713.4)"></use>
+	<use xlink:href="#cell" transform="translate(4279.4,713.4)"></use>
+	<use xlink:href="#cell" transform="translate(3566.0,-713.4)"></use>
+	<use xlink:href="#cell" transform="translate(4279.4,-713.4)"></use>
+	<use xlink:href="#cell" transform="translate(3566.0,1426.8)"></use>
+	<use xlink:href="#cell" transform="translate(4279.4,1426.8)"></use>
+		<use xlink:href="#cell"></use>
+		<use xlink:href="#cell" transform="translate(713.4,0)"></use>
+		<use xlink:href="#cell" transform="translate(1426.8,0)"></use>
+		<use xlink:href="#cell" transform="translate(2139.2,0)"></use>
+		<use xlink:href="#cell" transform="translate(2852.6,0)"></use>
+		<use xlink:href="#cell" transform="translate(0,713.4)"></use>
+		<use xlink:href="#cell" transform="translate(713.4,713.4)"></use>
+		<use xlink:href="#cell" transform="translate(1426.8,713.4)"></use>
+		<use xlink:href="#cell" transform="translate(2139.2,713.4)"></use>
+		<use xlink:href="#cell" transform="translate(2852.6,713.4)"></use>
+		<use xlink:href="#cell" transform="translate(-713.4,0)"></use>
+		<use xlink:href="#cell" transform="translate(-713.4,713.4)"></use>
+		<use xlink:href="#cell" transform="translate(0,-713.4)"></use>
+		<use xlink:href="#cell" transform="translate(713.4,-713.4)"></use>
+		<use xlink:href="#cell" transform="translate(1426.8,-713.4)"></use>
+		<use xlink:href="#cell" transform="translate(2139.2,-713.4)"></use>
+		<use xlink:href="#cell" transform="translate(2852.6,-713.4)"></use>
+		<use xlink:href="#cell" transform="translate(0,1426.8)"></use>
+		<use xlink:href="#cell" transform="translate(713.4,1426.8)"></use>
+		<use xlink:href="#cell" transform="translate(1426.8,1426.8)"></use>
+		<use xlink:href="#cell" transform="translate(2139.2,1426.8)"></use>
+		<use xlink:href="#cell" transform="translate(2852.6,1426.8)"></use>
+		<use xlink:href="#cell" transform="translate(-713.4,1426.8)"></use>
+		<use xlink:href="#cell" transform="translate(1426.8,-713.4)"></use>
+	</g>
+</g>
 </svg>
 
