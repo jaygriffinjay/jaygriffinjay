@@ -1,5 +1,5 @@
-# Software developer working in the open at jaygriff.com
-
+<p align="center"># Software developer working in the open at jaygriff.com
+</p>
 <!-- this is my shiniest svg please enjoy -->
 <p align="center">
   <img src="./assets/nodes.svg" alt="Nodes" width="100%" />
