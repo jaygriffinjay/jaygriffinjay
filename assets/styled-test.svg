@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="800" height="120">
+  <style>
+    .title {
+      font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+      font-size: 32px;
+      font-weight: 700;
+      fill: #e6edf3;
+      letter-spacing: -0.5px;
+    }
+    .subtitle {
+      font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+      font-size: 16px;
+      font-weight: 400;
+      fill: #8b949e;
+    }
+    .accent {
+      fill: #00f0ff;
+    }
+    .accent-purple {
+      fill: #bf5af2;
+    }
+    .dot {
+      animation: pulse 2s ease-in-out infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.4; }
+      50% { opacity: 1; }
+    }
+  </style>
+  <rect width="800" height="120" rx="12" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="799" height="119" rx="12" fill="none" stroke="#30363d" stroke-width="1"/>
+  <circle class="dot" cx="24" cy="60" r="4" fill="#00f0ff"/>
+  <text x="44" y="52" class="title">Software developer working in the open at <tspan class="accent">jaygriff.com</tspan></text>
+  <text x="44" y="80" class="subtitle">
+    <tspan class="accent-purple">&#9679;</tspan> About Me
+    <tspan dx="20" class="accent-purple">&#9679;</tspan> Projects
+    <tspan dx="20" class="accent-purple">&#9679;</tspan> My Stack
+    <tspan dx="20" class="accent-purple">&#9679;</tspan> About This Site
+  </text>
+</svg>
