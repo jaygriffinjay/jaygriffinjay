@@ -1,3 +1,4 @@
+<p align="center"><img src="assets/faviconv2.svg" width="200" /></p>
 <h1 align="center">Software developer working in the open at <a href="https://jaygriff.com">jaygriff.com</a></h1>
 <h2 align="center">
   <a href="https://www.jaygriff.com/about-me">About Me</a> &thinsp;&thinsp;·&thinsp;&thinsp;
