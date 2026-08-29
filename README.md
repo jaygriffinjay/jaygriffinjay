@@ -3,7 +3,7 @@
 <h2 align="center">
   <a href="https://www.jaygriff.com/projects">My Projects</a> &thinsp;&thinsp;·&thinsp;&thinsp;
   <a href="https://www.jaygriff.com/posts">My Writing</a> &thinsp;&thinsp;·&thinsp;&thinsp;
-  <a href="https://www.jaygriff.com/my-stack">My Stack</a>
+  <a href="https://www.jaygriff.com/my-stack">My Stack</a> &thinsp;&thinsp;·&thinsp;&thinsp;
   <a href="https://www.jaygriff.com/about">About Me</a> &thinsp;&thinsp;·&thinsp;&thinsp;
   <a href="https://jaygriff.com/contact">Contact Me</a> &thinsp;&thinsp;·&thinsp;&thinsp;
 </h2>
